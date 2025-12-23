@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\bin\Debug\net8.0\Type_Casting_and_Constants.exe
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\bin\Debug\net8.0\Type_Casting_and_Constants.deps.json
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\bin\Debug\net8.0\Type_Casting_and_Constants.runtimeconfig.json
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\bin\Debug\net8.0\Type_Casting_and_Constants.dll
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\bin\Debug\net8.0\Type_Casting_and_Constants.pdb
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\obj\Debug\net8.0\Type_Casting_and_Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\obj\Debug\net8.0\Type_Casting_and_Constants.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\obj\Debug\net8.0\Type_Casting_and_Constants.AssemblyInfo.cs
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\obj\Debug\net8.0\Type_Casting_and_Constants.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\obj\Debug\net8.0\Type_Casting_and_Constants.sourcelink.json
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\obj\Debug\net8.0\Type_Casting_and_Constants.dll
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\obj\Debug\net8.0\refint\Type_Casting_and_Constants.dll
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\obj\Debug\net8.0\Type_Casting_and_Constants.pdb
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\obj\Debug\net8.0\Type_Casting_and_Constants.genruntimeconfig.cache
+D:\Aabhyas\C#\Day-1\Type_Casting_and_Constants\Type_Casting_and_Constants\obj\Debug\net8.0\ref\Type_Casting_and_Constants.dll
