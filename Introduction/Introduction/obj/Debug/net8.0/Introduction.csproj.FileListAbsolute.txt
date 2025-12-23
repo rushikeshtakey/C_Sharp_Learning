@@ -1,0 +1,14 @@
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\obj\Debug\net8.0\Introduction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\obj\Debug\net8.0\Introduction.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\obj\Debug\net8.0\Introduction.AssemblyInfo.cs
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\obj\Debug\net8.0\Introduction.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\bin\Debug\net8.0\Introduction.exe
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\bin\Debug\net8.0\Introduction.deps.json
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\bin\Debug\net8.0\Introduction.runtimeconfig.json
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\bin\Debug\net8.0\Introduction.dll
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\bin\Debug\net8.0\Introduction.pdb
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\obj\Debug\net8.0\Introduction.dll
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\obj\Debug\net8.0\refint\Introduction.dll
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\obj\Debug\net8.0\Introduction.pdb
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\obj\Debug\net8.0\Introduction.genruntimeconfig.cache
+D:\Aabhyas\C#\Day-1\Introduction\Introduction\obj\Debug\net8.0\ref\Introduction.dll
