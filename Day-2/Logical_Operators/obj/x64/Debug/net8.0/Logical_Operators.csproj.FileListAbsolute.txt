@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\obj\x64\Debug\net8.0\Logical_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\obj\x64\Debug\net8.0\Logical_Operators.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\obj\x64\Debug\net8.0\Logical_Operators.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\obj\x64\Debug\net8.0\Logical_Operators.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\obj\x64\Debug\net8.0\Logical_Operators.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\bin\x64\Debug\net8.0\Logical_Operators.exe
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\bin\x64\Debug\net8.0\Logical_Operators.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\bin\x64\Debug\net8.0\Logical_Operators.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\bin\x64\Debug\net8.0\Logical_Operators.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\bin\x64\Debug\net8.0\Logical_Operators.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\obj\x64\Debug\net8.0\Logical_Operators.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\obj\x64\Debug\net8.0\refint\Logical_Operators.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\obj\x64\Debug\net8.0\Logical_Operators.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\obj\x64\Debug\net8.0\Logical_Operators.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Logical_Operators\obj\x64\Debug\net8.0\ref\Logical_Operators.dll
