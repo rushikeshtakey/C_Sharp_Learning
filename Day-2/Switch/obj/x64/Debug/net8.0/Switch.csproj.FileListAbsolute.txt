@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\obj\x64\Debug\net8.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\obj\x64\Debug\net8.0\Switch.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\obj\x64\Debug\net8.0\Switch.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\obj\x64\Debug\net8.0\Switch.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\obj\x64\Debug\net8.0\Switch.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\bin\x64\Debug\net8.0\Switch.exe
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\bin\x64\Debug\net8.0\Switch.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\bin\x64\Debug\net8.0\Switch.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\bin\x64\Debug\net8.0\Switch.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\bin\x64\Debug\net8.0\Switch.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\obj\x64\Debug\net8.0\Switch.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\obj\x64\Debug\net8.0\refint\Switch.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\obj\x64\Debug\net8.0\Switch.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\obj\x64\Debug\net8.0\Switch.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Switch\obj\x64\Debug\net8.0\ref\Switch.dll
