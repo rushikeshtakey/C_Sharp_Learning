@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\obj\x64\Debug\net8.0\Random_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\obj\x64\Debug\net8.0\Random_number.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\obj\x64\Debug\net8.0\Random_number.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\obj\x64\Debug\net8.0\Random_number.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\obj\x64\Debug\net8.0\Random_number.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\bin\x64\Debug\net8.0\Random_number.exe
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\bin\x64\Debug\net8.0\Random_number.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\bin\x64\Debug\net8.0\Random_number.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\bin\x64\Debug\net8.0\Random_number.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\bin\x64\Debug\net8.0\Random_number.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\obj\x64\Debug\net8.0\Random_number.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\obj\x64\Debug\net8.0\refint\Random_number.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\obj\x64\Debug\net8.0\Random_number.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\obj\x64\Debug\net8.0\Random_number.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\Random_number\obj\x64\Debug\net8.0\ref\Random_number.dll
