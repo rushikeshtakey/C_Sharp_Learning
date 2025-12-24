@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\bin\x64\Debug\net8.0\Hypotenuse.exe
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\bin\x64\Debug\net8.0\Hypotenuse.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\bin\x64\Debug\net8.0\Hypotenuse.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\bin\x64\Debug\net8.0\Hypotenuse.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\bin\x64\Debug\net8.0\Hypotenuse.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\obj\x64\Debug\net8.0\Hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\obj\x64\Debug\net8.0\Hypotenuse.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\obj\x64\Debug\net8.0\Hypotenuse.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\obj\x64\Debug\net8.0\Hypotenuse.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\obj\x64\Debug\net8.0\Hypotenuse.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\obj\x64\Debug\net8.0\Hypotenuse.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\obj\x64\Debug\net8.0\refint\Hypotenuse.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\obj\x64\Debug\net8.0\Hypotenuse.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\obj\x64\Debug\net8.0\Hypotenuse.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Hypotenuse\obj\x64\Debug\net8.0\ref\Hypotenuse.dll
