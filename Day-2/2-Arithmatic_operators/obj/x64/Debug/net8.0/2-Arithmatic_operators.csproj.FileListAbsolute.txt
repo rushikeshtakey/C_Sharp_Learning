@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\obj\x64\Debug\net8.0\2-Arithmatic_operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\obj\x64\Debug\net8.0\2-Arithmatic_operators.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\obj\x64\Debug\net8.0\2-Arithmatic_operators.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\obj\x64\Debug\net8.0\2-Arithmatic_operators.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\obj\x64\Debug\net8.0\2-Arithmatic_operators.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\bin\x64\Debug\net8.0\2-Arithmatic_operators.exe
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\bin\x64\Debug\net8.0\2-Arithmatic_operators.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\bin\x64\Debug\net8.0\2-Arithmatic_operators.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\bin\x64\Debug\net8.0\2-Arithmatic_operators.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\bin\x64\Debug\net8.0\2-Arithmatic_operators.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\obj\x64\Debug\net8.0\2-Arithmatic_operators.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\obj\x64\Debug\net8.0\refint\2-Arithmatic_operators.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\obj\x64\Debug\net8.0\2-Arithmatic_operators.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\obj\x64\Debug\net8.0\2-Arithmatic_operators.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\2-Arithmatic_operators\obj\x64\Debug\net8.0\ref\2-Arithmatic_operators.dll
