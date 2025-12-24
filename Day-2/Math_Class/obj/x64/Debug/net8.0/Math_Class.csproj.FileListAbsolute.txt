@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\obj\x64\Debug\net8.0\Math_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\obj\x64\Debug\net8.0\Math_Class.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\obj\x64\Debug\net8.0\Math_Class.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\obj\x64\Debug\net8.0\Math_Class.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\obj\x64\Debug\net8.0\Math_Class.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\bin\x64\Debug\net8.0\Math_Class.exe
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\bin\x64\Debug\net8.0\Math_Class.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\bin\x64\Debug\net8.0\Math_Class.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\bin\x64\Debug\net8.0\Math_Class.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\bin\x64\Debug\net8.0\Math_Class.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\obj\x64\Debug\net8.0\Math_Class.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\obj\x64\Debug\net8.0\refint\Math_Class.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\obj\x64\Debug\net8.0\Math_Class.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\obj\x64\Debug\net8.0\Math_Class.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\Math_Class\obj\x64\Debug\net8.0\ref\Math_Class.dll
