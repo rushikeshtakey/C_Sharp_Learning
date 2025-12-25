@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\obj\x64\Debug\net8.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\obj\x64\Debug\net8.0\NumberGuessingGame.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\obj\x64\Debug\net8.0\NumberGuessingGame.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\obj\x64\Debug\net8.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\obj\x64\Debug\net8.0\NumberGuessingGame.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\bin\x64\Debug\net8.0\NumberGuessingGame.exe
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\bin\x64\Debug\net8.0\NumberGuessingGame.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\bin\x64\Debug\net8.0\NumberGuessingGame.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\bin\x64\Debug\net8.0\NumberGuessingGame.dll
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\bin\x64\Debug\net8.0\NumberGuessingGame.pdb
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\obj\x64\Debug\net8.0\NumberGuessingGame.dll
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\obj\x64\Debug\net8.0\refint\NumberGuessingGame.dll
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\obj\x64\Debug\net8.0\NumberGuessingGame.pdb
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\obj\x64\Debug\net8.0\NumberGuessingGame.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-3\NumberGuessingGame\obj\x64\Debug\net8.0\ref\NumberGuessingGame.dll
