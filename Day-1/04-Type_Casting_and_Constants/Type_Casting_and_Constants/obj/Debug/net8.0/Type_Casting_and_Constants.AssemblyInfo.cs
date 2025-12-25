@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Type_Casting_and_Constants")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ee13a4d8ce6fc8e83d65f7d267b4f97fd9ff9de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad74b4479d8f92151978d433b7bdf8a1e45659b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Type_Casting_and_Constants")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Type_Casting_and_Constants")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

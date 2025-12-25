@@ -1,37 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Aabhyas\\C#\\Day-1\\Type_Casting_and_Constants\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C8FDC29C-C205-4AB9-BFB5-7E0F5610C221}|Type_Casting_and_Constants\\Type_Casting_and_Constants.csproj|d:\\aabhyas\\c#\\day-1\\type_casting_and_constants\\type_casting_and_constants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8FDC29C-C205-4AB9-BFB5-7E0F5610C221}|Type_Casting_and_Constants\\Type_Casting_and_Constants.csproj|solutionrelative:type_casting_and_constants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Aabhyas\\C#\\Bro_Code\\Day-1\\04-Type_Casting_and_Constants\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Aabhyas\\C#\\Day-1\\Type_Casting_and_Constants\\Type_Casting_and_Constants\\Program.cs",
-              "RelativeDocumentMoniker": "Type_Casting_and_Constants\\Program.cs",
-              "ToolTip": "D:\\Aabhyas\\C#\\Day-1\\Type_Casting_and_Constants\\Type_Casting_and_Constants\\Program.cs",
-              "RelativeToolTip": "Type_Casting_and_Constants\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T10:13:19.716Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

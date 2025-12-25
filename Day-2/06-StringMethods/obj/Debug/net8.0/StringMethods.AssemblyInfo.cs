@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c6555b90c23de8282cd9cc24df849e254f71780")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad74b4479d8f92151978d433b7bdf8a1e45659b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
