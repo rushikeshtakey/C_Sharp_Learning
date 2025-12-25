@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\bin\x64\Debug\net8.0\11-ForLoop.exe
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\bin\x64\Debug\net8.0\11-ForLoop.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\bin\x64\Debug\net8.0\11-ForLoop.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\bin\x64\Debug\net8.0\11-ForLoop.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\bin\x64\Debug\net8.0\11-ForLoop.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\obj\x64\Debug\net8.0\11-ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\obj\x64\Debug\net8.0\11-ForLoop.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\obj\x64\Debug\net8.0\11-ForLoop.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\obj\x64\Debug\net8.0\11-ForLoop.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\obj\x64\Debug\net8.0\11-ForLoop.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\obj\x64\Debug\net8.0\11-ForLoop.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\obj\x64\Debug\net8.0\refint\11-ForLoop.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\obj\x64\Debug\net8.0\11-ForLoop.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\obj\x64\Debug\net8.0\11-ForLoop.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\11-ForLoop\obj\x64\Debug\net8.0\ref\11-ForLoop.dll
