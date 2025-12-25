@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\obj\x64\Debug\net8.0\01-Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\obj\x64\Debug\net8.0\01-Array.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\obj\x64\Debug\net8.0\01-Array.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\obj\x64\Debug\net8.0\01-Array.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\obj\x64\Debug\net8.0\01-Array.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\bin\x64\Debug\net8.0\01-Array.exe
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\bin\x64\Debug\net8.0\01-Array.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\bin\x64\Debug\net8.0\01-Array.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\bin\x64\Debug\net8.0\01-Array.dll
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\bin\x64\Debug\net8.0\01-Array.pdb
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\obj\x64\Debug\net8.0\01-Array.dll
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\obj\x64\Debug\net8.0\refint\01-Array.dll
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\obj\x64\Debug\net8.0\01-Array.pdb
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\obj\x64\Debug\net8.0\01-Array.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-4\01-Array\obj\x64\Debug\net8.0\ref\01-Array.dll

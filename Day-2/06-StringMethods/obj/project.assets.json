@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aabhyas\\C#\\Bro_Code\\Day-2\\StringMethods\\StringMethods.csproj",
+      "projectUniqueName": "D:\\Aabhyas\\C#\\Bro_Code\\Day-2\\06-StringMethods\\StringMethods.csproj",
       "projectName": "StringMethods",
-      "projectPath": "D:\\Aabhyas\\C#\\Bro_Code\\Day-2\\StringMethods\\StringMethods.csproj",
+      "projectPath": "D:\\Aabhyas\\C#\\Bro_Code\\Day-2\\06-StringMethods\\StringMethods.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Aabhyas\\C#\\Bro_Code\\Day-2\\StringMethods\\obj\\",
+      "outputPath": "D:\\Aabhyas\\C#\\Bro_Code\\Day-2\\06-StringMethods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
