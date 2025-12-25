@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\bin\x64\Debug\net8.0\Calculator.exe
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\bin\x64\Debug\net8.0\Calculator.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\bin\x64\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\bin\x64\Debug\net8.0\Calculator.dll
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\bin\x64\Debug\net8.0\Calculator.pdb
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\obj\x64\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\obj\x64\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\obj\x64\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\obj\x64\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\obj\x64\Debug\net8.0\Calculator.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\obj\x64\Debug\net8.0\Calculator.dll
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\obj\x64\Debug\net8.0\refint\Calculator.dll
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\obj\x64\Debug\net8.0\Calculator.pdb
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\obj\x64\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-3\Calculator\obj\x64\Debug\net8.0\ref\Calculator.dll
