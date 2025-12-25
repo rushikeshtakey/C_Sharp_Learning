@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\obj\x64\Debug\net8.0\10-WhileAndDoWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\obj\x64\Debug\net8.0\10-WhileAndDoWhileLoops.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\obj\x64\Debug\net8.0\10-WhileAndDoWhileLoops.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\obj\x64\Debug\net8.0\10-WhileAndDoWhileLoops.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\obj\x64\Debug\net8.0\10-WhileAndDoWhileLoops.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\bin\x64\Debug\net8.0\10-WhileAndDoWhileLoops.exe
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\bin\x64\Debug\net8.0\10-WhileAndDoWhileLoops.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\bin\x64\Debug\net8.0\10-WhileAndDoWhileLoops.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\bin\x64\Debug\net8.0\10-WhileAndDoWhileLoops.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\bin\x64\Debug\net8.0\10-WhileAndDoWhileLoops.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\obj\x64\Debug\net8.0\10-WhileAndDoWhileLoops.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\obj\x64\Debug\net8.0\refint\10-WhileAndDoWhileLoops.dll
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\obj\x64\Debug\net8.0\10-WhileAndDoWhileLoops.pdb
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\obj\x64\Debug\net8.0\10-WhileAndDoWhileLoops.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-2\10-WhileAndDoWhileLoops\obj\x64\Debug\net8.0\ref\10-WhileAndDoWhileLoops.dll
