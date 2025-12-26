@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\obj\x64\Debug\net8.0\02-Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\obj\x64\Debug\net8.0\02-Method.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\obj\x64\Debug\net8.0\02-Method.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\obj\x64\Debug\net8.0\02-Method.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\obj\x64\Debug\net8.0\02-Method.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\bin\x64\Debug\net8.0\02-Method.exe
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\bin\x64\Debug\net8.0\02-Method.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\bin\x64\Debug\net8.0\02-Method.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\bin\x64\Debug\net8.0\02-Method.dll
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\bin\x64\Debug\net8.0\02-Method.pdb
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\obj\x64\Debug\net8.0\02-Method.dll
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\obj\x64\Debug\net8.0\refint\02-Method.dll
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\obj\x64\Debug\net8.0\02-Method.pdb
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\obj\x64\Debug\net8.0\02-Method.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-4\02-Method\obj\x64\Debug\net8.0\ref\02-Method.dll
