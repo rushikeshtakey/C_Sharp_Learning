@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\obj\x64\Debug\net8.0\03-MultidimentionalArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\obj\x64\Debug\net8.0\03-MultidimentionalArray.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\obj\x64\Debug\net8.0\03-MultidimentionalArray.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\obj\x64\Debug\net8.0\03-MultidimentionalArray.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\obj\x64\Debug\net8.0\03-MultidimentionalArray.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\bin\x64\Debug\net8.0\03-MultidimentionalArray.exe
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\bin\x64\Debug\net8.0\03-MultidimentionalArray.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\bin\x64\Debug\net8.0\03-MultidimentionalArray.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\bin\x64\Debug\net8.0\03-MultidimentionalArray.dll
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\bin\x64\Debug\net8.0\03-MultidimentionalArray.pdb
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\obj\x64\Debug\net8.0\03-MultidimentionalArray.dll
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\obj\x64\Debug\net8.0\refint\03-MultidimentionalArray.dll
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\obj\x64\Debug\net8.0\03-MultidimentionalArray.pdb
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\obj\x64\Debug\net8.0\03-MultidimentionalArray.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-5\03-MultidimentionalArray\obj\x64\Debug\net8.0\ref\03-MultidimentionalArray.dll
