@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\obj\x64\Debug\net8.0\04-params.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\obj\x64\Debug\net8.0\04-params.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\obj\x64\Debug\net8.0\04-params.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\obj\x64\Debug\net8.0\04-params.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\obj\x64\Debug\net8.0\04-params.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\bin\x64\Debug\net8.0\04-params.exe
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\bin\x64\Debug\net8.0\04-params.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\bin\x64\Debug\net8.0\04-params.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\bin\x64\Debug\net8.0\04-params.dll
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\bin\x64\Debug\net8.0\04-params.pdb
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\obj\x64\Debug\net8.0\04-params.dll
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\obj\x64\Debug\net8.0\refint\04-params.dll
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\obj\x64\Debug\net8.0\04-params.pdb
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\obj\x64\Debug\net8.0\04-params.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-4\04-params\obj\x64\Debug\net8.0\ref\04-params.dll
