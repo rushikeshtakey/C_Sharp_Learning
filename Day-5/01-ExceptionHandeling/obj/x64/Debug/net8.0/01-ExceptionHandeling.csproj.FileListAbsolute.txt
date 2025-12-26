@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\obj\x64\Debug\net8.0\01-ExceptionHandeling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\obj\x64\Debug\net8.0\01-ExceptionHandeling.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\obj\x64\Debug\net8.0\01-ExceptionHandeling.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\obj\x64\Debug\net8.0\01-ExceptionHandeling.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\obj\x64\Debug\net8.0\01-ExceptionHandeling.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\bin\x64\Debug\net8.0\01-ExceptionHandeling.exe
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\bin\x64\Debug\net8.0\01-ExceptionHandeling.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\bin\x64\Debug\net8.0\01-ExceptionHandeling.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\bin\x64\Debug\net8.0\01-ExceptionHandeling.dll
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\bin\x64\Debug\net8.0\01-ExceptionHandeling.pdb
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\obj\x64\Debug\net8.0\01-ExceptionHandeling.dll
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\obj\x64\Debug\net8.0\refint\01-ExceptionHandeling.dll
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\obj\x64\Debug\net8.0\01-ExceptionHandeling.pdb
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\obj\x64\Debug\net8.0\01-ExceptionHandeling.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-5\01-ExceptionHandeling\obj\x64\Debug\net8.0\ref\01-ExceptionHandeling.dll
