@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\bin\x64\Debug\net8.0\02-ConditionalOperator.exe
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\bin\x64\Debug\net8.0\02-ConditionalOperator.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\bin\x64\Debug\net8.0\02-ConditionalOperator.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\bin\x64\Debug\net8.0\02-ConditionalOperator.dll
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\bin\x64\Debug\net8.0\02-ConditionalOperator.pdb
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\obj\x64\Debug\net8.0\02-ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\obj\x64\Debug\net8.0\02-ConditionalOperator.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\obj\x64\Debug\net8.0\02-ConditionalOperator.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\obj\x64\Debug\net8.0\02-ConditionalOperator.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\obj\x64\Debug\net8.0\02-ConditionalOperator.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\obj\x64\Debug\net8.0\02-ConditionalOperator.dll
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\obj\x64\Debug\net8.0\refint\02-ConditionalOperator.dll
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\obj\x64\Debug\net8.0\02-ConditionalOperator.pdb
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\obj\x64\Debug\net8.0\02-ConditionalOperator.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-5\02-ConditionalOperator\obj\x64\Debug\net8.0\ref\02-ConditionalOperator.dll
