@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\bin\x64\Debug\net8.0\_01-Class.exe
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\bin\x64\Debug\net8.0\_01-Class.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\bin\x64\Debug\net8.0\_01-Class.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\bin\x64\Debug\net8.0\_01-Class.dll
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\bin\x64\Debug\net8.0\_01-Class.pdb
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\obj\x64\Debug\net8.0\_01-Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\obj\x64\Debug\net8.0\_01-Class.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\obj\x64\Debug\net8.0\_01-Class.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\obj\x64\Debug\net8.0\_01-Class.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\obj\x64\Debug\net8.0\_01-Class.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\obj\x64\Debug\net8.0\_01-Class.dll
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\obj\x64\Debug\net8.0\refint\_01-Class.dll
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\obj\x64\Debug\net8.0\_01-Class.pdb
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\obj\x64\Debug\net8.0\_01-Class.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-6\_01-Class\obj\x64\Debug\net8.0\ref\_01-Class.dll

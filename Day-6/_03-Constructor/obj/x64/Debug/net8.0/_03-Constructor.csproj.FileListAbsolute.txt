@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\bin\x64\Debug\net8.0\_03-Constructor.exe
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\bin\x64\Debug\net8.0\_03-Constructor.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\bin\x64\Debug\net8.0\_03-Constructor.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\bin\x64\Debug\net8.0\_03-Constructor.dll
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\bin\x64\Debug\net8.0\_03-Constructor.pdb
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\obj\x64\Debug\net8.0\_03-Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\obj\x64\Debug\net8.0\_03-Constructor.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\obj\x64\Debug\net8.0\_03-Constructor.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\obj\x64\Debug\net8.0\_03-Constructor.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\obj\x64\Debug\net8.0\_03-Constructor.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\obj\x64\Debug\net8.0\_03-Constructor.dll
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\obj\x64\Debug\net8.0\refint\_03-Constructor.dll
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\obj\x64\Debug\net8.0\_03-Constructor.pdb
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\obj\x64\Debug\net8.0\_03-Constructor.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-6\_03-Constructor\obj\x64\Debug\net8.0\ref\_03-Constructor.dll
