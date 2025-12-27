@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\obj\x64\Debug\net9.0\_02-Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\obj\x64\Debug\net9.0\_02-Objects.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\obj\x64\Debug\net9.0\_02-Objects.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\obj\x64\Debug\net9.0\_02-Objects.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\obj\x64\Debug\net9.0\_02-Objects.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\bin\x64\Debug\net9.0\_02-Objects.exe
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\bin\x64\Debug\net9.0\_02-Objects.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\bin\x64\Debug\net9.0\_02-Objects.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\bin\x64\Debug\net9.0\_02-Objects.dll
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\bin\x64\Debug\net9.0\_02-Objects.pdb
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\obj\x64\Debug\net9.0\_02-Objects.dll
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\obj\x64\Debug\net9.0\refint\_02-Objects.dll
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\obj\x64\Debug\net9.0\_02-Objects.pdb
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\obj\x64\Debug\net9.0\_02-Objects.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-6\_02-Objects\obj\x64\Debug\net9.0\ref\_02-Objects.dll
