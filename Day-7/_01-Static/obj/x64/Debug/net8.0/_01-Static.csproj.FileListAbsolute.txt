@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\bin\x64\Debug\net8.0\_01-Static.exe
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\bin\x64\Debug\net8.0\_01-Static.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\bin\x64\Debug\net8.0\_01-Static.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\bin\x64\Debug\net8.0\_01-Static.dll
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\bin\x64\Debug\net8.0\_01-Static.pdb
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\obj\x64\Debug\net8.0\_01-Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\obj\x64\Debug\net8.0\_01-Static.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\obj\x64\Debug\net8.0\_01-Static.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\obj\x64\Debug\net8.0\_01-Static.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\obj\x64\Debug\net8.0\_01-Static.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\obj\x64\Debug\net8.0\_01-Static.dll
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\obj\x64\Debug\net8.0\refint\_01-Static.dll
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\obj\x64\Debug\net8.0\_01-Static.pdb
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\obj\x64\Debug\net8.0\_01-Static.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-7\_01-Static\obj\x64\Debug\net8.0\ref\_01-Static.dll
