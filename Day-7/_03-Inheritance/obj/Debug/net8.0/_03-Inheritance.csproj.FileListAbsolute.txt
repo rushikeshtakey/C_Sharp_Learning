@@ -1,0 +1,5 @@
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\Debug\net8.0\_03-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\Debug\net8.0\_03-Inheritance.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\Debug\net8.0\_03-Inheritance.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\Debug\net8.0\_03-Inheritance.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\Debug\net8.0\_03-Inheritance.sourcelink.json
