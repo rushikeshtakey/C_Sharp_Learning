@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\bin\x64\Debug\net8.0\_03-Inheritance.exe
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\bin\x64\Debug\net8.0\_03-Inheritance.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\bin\x64\Debug\net8.0\_03-Inheritance.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\bin\x64\Debug\net8.0\_03-Inheritance.dll
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\bin\x64\Debug\net8.0\_03-Inheritance.pdb
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\x64\Debug\net8.0\_03-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\x64\Debug\net8.0\_03-Inheritance.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\x64\Debug\net8.0\_03-Inheritance.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\x64\Debug\net8.0\_03-Inheritance.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\x64\Debug\net8.0\_03-Inheritance.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\x64\Debug\net8.0\_03-Inheritance.dll
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\x64\Debug\net8.0\refint\_03-Inheritance.dll
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\x64\Debug\net8.0\_03-Inheritance.pdb
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\x64\Debug\net8.0\_03-Inheritance.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-7\_03-Inheritance\obj\x64\Debug\net8.0\ref\_03-Inheritance.dll
