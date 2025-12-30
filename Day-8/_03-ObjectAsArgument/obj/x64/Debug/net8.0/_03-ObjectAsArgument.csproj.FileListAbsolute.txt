@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\bin\x64\Debug\net8.0\_03-ObjectAsArgument.exe
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\bin\x64\Debug\net8.0\_03-ObjectAsArgument.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\bin\x64\Debug\net8.0\_03-ObjectAsArgument.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\bin\x64\Debug\net8.0\_03-ObjectAsArgument.dll
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\bin\x64\Debug\net8.0\_03-ObjectAsArgument.pdb
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\obj\x64\Debug\net8.0\_03-ObjectAsArgument.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\obj\x64\Debug\net8.0\_03-ObjectAsArgument.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\obj\x64\Debug\net8.0\_03-ObjectAsArgument.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\obj\x64\Debug\net8.0\_03-ObjectAsArgument.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\obj\x64\Debug\net8.0\_03-ObjectAsArgument.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\obj\x64\Debug\net8.0\_03-ObjectAsArgument.dll
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\obj\x64\Debug\net8.0\refint\_03-ObjectAsArgument.dll
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\obj\x64\Debug\net8.0\_03-ObjectAsArgument.pdb
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\obj\x64\Debug\net8.0\_03-ObjectAsArgument.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-8\_03-ObjectAsArgument\obj\x64\Debug\net8.0\ref\_03-ObjectAsArgument.dll
