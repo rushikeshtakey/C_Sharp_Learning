@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\obj\Debug\net8.0\_01-AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\obj\Debug\net8.0\_01-AbstractClasses.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\obj\Debug\net8.0\_01-AbstractClasses.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\obj\Debug\net8.0\_01-AbstractClasses.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\obj\Debug\net8.0\_01-AbstractClasses.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\bin\Debug\net8.0\_01-AbstractClasses.exe
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\bin\Debug\net8.0\_01-AbstractClasses.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\bin\Debug\net8.0\_01-AbstractClasses.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\bin\Debug\net8.0\_01-AbstractClasses.dll
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\bin\Debug\net8.0\_01-AbstractClasses.pdb
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\obj\Debug\net8.0\_01-AbstractClasses.dll
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\obj\Debug\net8.0\refint\_01-AbstractClasses.dll
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\obj\Debug\net8.0\_01-AbstractClasses.pdb
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\obj\Debug\net8.0\_01-AbstractClasses.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-8\_01-AbstractClasses\obj\Debug\net8.0\ref\_01-AbstractClasses.dll
