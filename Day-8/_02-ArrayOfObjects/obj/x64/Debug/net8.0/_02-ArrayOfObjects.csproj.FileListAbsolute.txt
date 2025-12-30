@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\obj\x64\Debug\net8.0\_02-ArrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\obj\x64\Debug\net8.0\_02-ArrayOfObjects.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\obj\x64\Debug\net8.0\_02-ArrayOfObjects.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\obj\x64\Debug\net8.0\_02-ArrayOfObjects.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\obj\x64\Debug\net8.0\_02-ArrayOfObjects.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\bin\x64\Debug\net8.0\_02-ArrayOfObjects.exe
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\bin\x64\Debug\net8.0\_02-ArrayOfObjects.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\bin\x64\Debug\net8.0\_02-ArrayOfObjects.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\bin\x64\Debug\net8.0\_02-ArrayOfObjects.dll
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\bin\x64\Debug\net8.0\_02-ArrayOfObjects.pdb
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\obj\x64\Debug\net8.0\_02-ArrayOfObjects.dll
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\obj\x64\Debug\net8.0\refint\_02-ArrayOfObjects.dll
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\obj\x64\Debug\net8.0\_02-ArrayOfObjects.pdb
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\obj\x64\Debug\net8.0\_02-ArrayOfObjects.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-8\_02-ArrayOfObjects\obj\x64\Debug\net8.0\ref\_02-ArrayOfObjects.dll
