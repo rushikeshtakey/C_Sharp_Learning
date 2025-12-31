@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\bin\x64\Debug\net8.0\_02-ToString.exe
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\bin\x64\Debug\net8.0\_02-ToString.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\bin\x64\Debug\net8.0\_02-ToString.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\bin\x64\Debug\net8.0\_02-ToString.dll
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\bin\x64\Debug\net8.0\_02-ToString.pdb
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\obj\x64\Debug\net8.0\_02-ToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\obj\x64\Debug\net8.0\_02-ToString.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\obj\x64\Debug\net8.0\_02-ToString.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\obj\x64\Debug\net8.0\_02-ToString.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\obj\x64\Debug\net8.0\_02-ToString.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\obj\x64\Debug\net8.0\_02-ToString.dll
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\obj\x64\Debug\net8.0\refint\_02-ToString.dll
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\obj\x64\Debug\net8.0\_02-ToString.pdb
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\obj\x64\Debug\net8.0\_02-ToString.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-9\_02-ToString\obj\x64\Debug\net8.0\ref\_02-ToString.dll
