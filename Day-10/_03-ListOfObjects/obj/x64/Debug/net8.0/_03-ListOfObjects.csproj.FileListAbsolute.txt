@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\bin\x64\Debug\net8.0\_03-ListOfObjects.exe
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\bin\x64\Debug\net8.0\_03-ListOfObjects.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\bin\x64\Debug\net8.0\_03-ListOfObjects.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\bin\x64\Debug\net8.0\_03-ListOfObjects.dll
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\bin\x64\Debug\net8.0\_03-ListOfObjects.pdb
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\obj\x64\Debug\net8.0\_03-ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\obj\x64\Debug\net8.0\_03-ListOfObjects.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\obj\x64\Debug\net8.0\_03-ListOfObjects.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\obj\x64\Debug\net8.0\_03-ListOfObjects.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\obj\x64\Debug\net8.0\_03-ListOfObjects.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\obj\x64\Debug\net8.0\_03-ListOfObjects.dll
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\obj\x64\Debug\net8.0\refint\_03-ListOfObjects.dll
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\obj\x64\Debug\net8.0\_03-ListOfObjects.pdb
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\obj\x64\Debug\net8.0\_03-ListOfObjects.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-10\_03-ListOfObjects\obj\x64\Debug\net8.0\ref\_03-ListOfObjects.dll

@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\bin\x64\Debug\net8.0\_01-Interface.exe
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\bin\x64\Debug\net8.0\_01-Interface.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\bin\x64\Debug\net8.0\_01-Interface.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\bin\x64\Debug\net8.0\_01-Interface.dll
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\bin\x64\Debug\net8.0\_01-Interface.pdb
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\obj\x64\Debug\net8.0\_01-Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\obj\x64\Debug\net8.0\_01-Interface.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\obj\x64\Debug\net8.0\_01-Interface.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\obj\x64\Debug\net8.0\_01-Interface.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\obj\x64\Debug\net8.0\_01-Interface.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\obj\x64\Debug\net8.0\_01-Interface.dll
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\obj\x64\Debug\net8.0\refint\_01-Interface.dll
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\obj\x64\Debug\net8.0\_01-Interface.pdb
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\obj\x64\Debug\net8.0\_01-Interface.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-10\_01-Interface\obj\x64\Debug\net8.0\ref\_01-Interface.dll
