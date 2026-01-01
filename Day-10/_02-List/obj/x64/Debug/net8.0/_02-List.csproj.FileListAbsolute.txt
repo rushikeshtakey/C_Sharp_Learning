@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\bin\x64\Debug\net8.0\_02-List.exe
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\bin\x64\Debug\net8.0\_02-List.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\bin\x64\Debug\net8.0\_02-List.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\bin\x64\Debug\net8.0\_02-List.dll
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\bin\x64\Debug\net8.0\_02-List.pdb
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\obj\x64\Debug\net8.0\_02-List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\obj\x64\Debug\net8.0\_02-List.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\obj\x64\Debug\net8.0\_02-List.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\obj\x64\Debug\net8.0\_02-List.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\obj\x64\Debug\net8.0\_02-List.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\obj\x64\Debug\net8.0\_02-List.dll
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\obj\x64\Debug\net8.0\refint\_02-List.dll
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\obj\x64\Debug\net8.0\_02-List.pdb
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\obj\x64\Debug\net8.0\_02-List.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-10\_02-List\obj\x64\Debug\net8.0\ref\_02-List.dll
