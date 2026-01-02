@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\bin\x64\Debug\net8.0\_01-GetNSet.exe
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\bin\x64\Debug\net8.0\_01-GetNSet.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\bin\x64\Debug\net8.0\_01-GetNSet.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\bin\x64\Debug\net8.0\_01-GetNSet.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\bin\x64\Debug\net8.0\_01-GetNSet.pdb
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\obj\x64\Debug\net8.0\_01-GetNSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\obj\x64\Debug\net8.0\_01-GetNSet.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\obj\x64\Debug\net8.0\_01-GetNSet.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\obj\x64\Debug\net8.0\_01-GetNSet.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\obj\x64\Debug\net8.0\_01-GetNSet.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\obj\x64\Debug\net8.0\_01-GetNSet.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\obj\x64\Debug\net8.0\refint\_01-GetNSet.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\obj\x64\Debug\net8.0\_01-GetNSet.pdb
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\obj\x64\Debug\net8.0\_01-GetNSet.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_01-GetNSet\obj\x64\Debug\net8.0\ref\_01-GetNSet.dll
