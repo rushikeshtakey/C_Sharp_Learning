@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\bin\x64\Debug\net8.0\_05-Multithreding.exe
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\bin\x64\Debug\net8.0\_05-Multithreding.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\bin\x64\Debug\net8.0\_05-Multithreding.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\bin\x64\Debug\net8.0\_05-Multithreding.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\bin\x64\Debug\net8.0\_05-Multithreding.pdb
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\obj\x64\Debug\net8.0\_05-Multithreding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\obj\x64\Debug\net8.0\_05-Multithreding.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\obj\x64\Debug\net8.0\_05-Multithreding.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\obj\x64\Debug\net8.0\_05-Multithreding.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\obj\x64\Debug\net8.0\_05-Multithreding.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\obj\x64\Debug\net8.0\_05-Multithreding.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\obj\x64\Debug\net8.0\refint\_05-Multithreding.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\obj\x64\Debug\net8.0\_05-Multithreding.pdb
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\obj\x64\Debug\net8.0\_05-Multithreding.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_05-Multithreding\obj\x64\Debug\net8.0\ref\_05-Multithreding.dll
