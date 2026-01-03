@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\bin\x64\Debug\net8.0\_03-Enums.exe
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\bin\x64\Debug\net8.0\_03-Enums.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\bin\x64\Debug\net8.0\_03-Enums.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\bin\x64\Debug\net8.0\_03-Enums.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\bin\x64\Debug\net8.0\_03-Enums.pdb
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\obj\x64\Debug\net8.0\_03-Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\obj\x64\Debug\net8.0\_03-Enums.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\obj\x64\Debug\net8.0\_03-Enums.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\obj\x64\Debug\net8.0\_03-Enums.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\obj\x64\Debug\net8.0\_03-Enums.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\obj\x64\Debug\net8.0\_03-Enums.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\obj\x64\Debug\net8.0\refint\_03-Enums.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\obj\x64\Debug\net8.0\_03-Enums.pdb
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\obj\x64\Debug\net8.0\_03-Enums.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_03-Enums\obj\x64\Debug\net8.0\ref\_03-Enums.dll
