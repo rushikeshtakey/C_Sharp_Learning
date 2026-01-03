@@ -1,0 +1,15 @@
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\bin\x64\Debug\net8.0\_04-Generics.exe
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\bin\x64\Debug\net8.0\_04-Generics.deps.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\bin\x64\Debug\net8.0\_04-Generics.runtimeconfig.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\bin\x64\Debug\net8.0\_04-Generics.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\bin\x64\Debug\net8.0\_04-Generics.pdb
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\obj\x64\Debug\net8.0\_04-Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\obj\x64\Debug\net8.0\_04-Generics.AssemblyInfoInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\obj\x64\Debug\net8.0\_04-Generics.AssemblyInfo.cs
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\obj\x64\Debug\net8.0\_04-Generics.csproj.CoreCompileInputs.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\obj\x64\Debug\net8.0\_04-Generics.sourcelink.json
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\obj\x64\Debug\net8.0\_04-Generics.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\obj\x64\Debug\net8.0\refint\_04-Generics.dll
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\obj\x64\Debug\net8.0\_04-Generics.pdb
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\obj\x64\Debug\net8.0\_04-Generics.genruntimeconfig.cache
+D:\Aabhyas\C#\Bro_Code\Day-11\_04-Generics\obj\x64\Debug\net8.0\ref\_04-Generics.dll
